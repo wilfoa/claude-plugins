@@ -1,4 +1,4 @@
-# claude-plugins
+# wilfoa-plugins
 
 Personal Claude Code plugin marketplace.
 
@@ -15,5 +15,5 @@ Personal Claude Code plugin marketplace.
 /plugin marketplace add wilfoa/claude-plugins
 
 # Install a plugin
-/plugin install telegram-topics@claude-plugins
+/plugin install telegram-topics@wilfoa-plugins
 ```
